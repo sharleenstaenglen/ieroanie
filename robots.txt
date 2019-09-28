@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://repahpeij.hi5spk.cz/sitemap.xml
